@@ -6,7 +6,7 @@
 
 Desafio construído no discover da Rocketseat, criando um countdown.
 
-[🔗Clique aqui para acessar](ery10.github.io/Countdown/)
+[🔗Clique aqui para acessar](https://ery10.github.io/Countdown/)
 
 ##  🛠 Tecnologias
 
